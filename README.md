@@ -39,8 +39,8 @@
 <h2 align="center">🌐 Front-End Development</h2>
 
 <p align="center">
-  <img src="img/html3.png" alt="HTML" width="80"/>
-  <img src="img/css3.webp" alt="CSS" width="80"/>
+  <img src="img/html.webp" alt="HTML" width="80"/>
+  <img src="img/css.webp" alt="CSS" width="80"/>
   <img src="img/vue2.png" alt="Vue.js" width="80"/>
   <img src="img/angular2.png" alt="Angular" width="80"/>
   <img src="img/javascript.png" alt="JavaScript" width="80"/>
@@ -49,7 +49,7 @@
 <h2 align="center">🛠️ Back-End Development</h2>
 
 <p align="center">
-  <img src="img/node3.png" alt="Node.js" width="80"/>
+  <img src="img/js.html" alt="Node.js" width="80"/>
   <img src="img/net2.png" alt=".NET" width="80"/>
   <img src="img/springboot3.svg" alt="Spring Boot" width="80"/>
 </p>
@@ -57,7 +57,7 @@
 <h2 align="center">📱 Mobile Development</h2>
 
 <p align="center">
-  <img src="img/node3.png" alt="Node.js" width="80"/>
+  <img src="img/js.html" alt="Node.js" width="80"/>
   <img src="img/net2.png" alt=".NET" width="80"/>
 </p>
 
