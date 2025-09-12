@@ -49,7 +49,7 @@
 <h2 align="center">🛠️ Back-End Development</h2>
 
 <p align="center">
-  <img src="img/js.html" alt="Node.js" width="80"/>
+  <img src="img/js2.png" alt="Node.js" width="80"/>
   <img src="img/net2.png" alt=".NET" width="80"/>
   <img src="img/springboot3.svg" alt="Spring Boot" width="80"/>
 </p>
@@ -57,7 +57,7 @@
 <h2 align="center">📱 Mobile Development</h2>
 
 <p align="center">
-  <img src="img/js.html" alt="Node.js" width="80"/>
+  <img src="img/js2.png" alt="Node.js" width="80"/>
   <img src="img/net2.png" alt=".NET" width="80"/>
 </p>
 
